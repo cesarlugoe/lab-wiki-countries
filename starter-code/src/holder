@@ -1,0 +1,1 @@
+return <li><Link> to={'/' + country[0].cca3} key={country[0].cca3}><div><p>{country[0].flag}</p>{country[0].name.common}</div></Link></li>
